@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Helia007/Face-Recognition/issues"
   },
-  "homepage": "https://github.com/Helia007/Face-Recognition#readme"
+  "homepage": "https://github.com/Helia007/Face-Recognition#readme",
+  "dependencies": {
+    "create-react-app": "^3.4.1"
+  }
 }
